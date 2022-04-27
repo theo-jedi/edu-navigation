@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="floating_fragment">Floating Fragment</string>
+    <string name="example_username">Theo Jedi</string>
+    <string name="example_email">myemail@gmail.com</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+</resources>
